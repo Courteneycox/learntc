@@ -4,6 +4,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "mistakes made );
+        System.out.println( "mistakes fixed " );
     }
 }
